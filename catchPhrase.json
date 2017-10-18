@@ -1,0 +1,61 @@
+{
+	"vanquishing": {
+		"action": [
+			"Banish, ",
+			"Punish, ",
+			"Blow, ",
+			"Megapunch, ",
+			"End, "
+		],
+
+		"bad guy name": [
+			"Evil Doers",
+			"Thug Nasties",
+			"Man Whores",
+			"Peddlers",
+			"walla wallas",
+			"Alien scums"
+		]
+	},
+	"expression": {
+		"start": [
+			"Gar",
+			"Naf",
+			"Sug",
+			"Zag",
+			"Min",
+			"Mount",
+			"Io",
+			"Tai"
+		],
+		"end": [
+			"ah",
+			"mah",
+			"ize",
+			"ism",
+			"ish",
+			"pre",
+			"4",
+			"rer"
+		]
+	},
+	"self-referrence": {
+		"self": [
+			"I ",
+			"Me ",
+			"Hero ",
+			"Licksaballz "
+		],
+		"adjective": [
+			"ready",
+			"coming",
+			"kickin ass",
+			"fart slangin tonight",
+			"...help me jesis",
+			"yelp yelp",
+			"gonna clobber",
+			"gettin it done",
+			"gonna get a sucka"
+		]
+	}
+}
